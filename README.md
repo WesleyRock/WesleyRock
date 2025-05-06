@@ -1,16 +1,17 @@
-## Hi there 👋
+## Bem Vindo ao meu GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-<!--
-**WesleyRock/WesleyRock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+ 
+```
+ __          __  _                          _ 
+ \ \        / / | |                        | |
+  \ \  /\  / /__| | ___ ___  _ __ ___   ___| |
+   \ \/  \/ / _ \ |/ __/ _ \| '_ ` _ \ / _ \ |
+    \  /\  /  __/ | (_| (_) | | | | | |  __/_|
+     \/  \/ \___|_|\___\___/|_| |_| |_|\___(_)
+```
+</div>
 
-Here are some ideas to get you started:
+Olá sou Wesley Roque, um dev apaixonado por **Tecnologia** e **Progrmação**. 😎👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
