@@ -15,3 +15,7 @@
 Olá sou Wesley Roque, um dev apaixonado por **Tecnologia** e **Progrmação**. 👨‍💻
 
 </br>
+
+## Biografia 
+Atuei como desenvolvedor full stack em um instituto de pesquisa e desenvolvimento (P&D), participando de diversos projetos voltados para eficiência energética, gestão de armazéns corporativos, controle de consumo de água e desenvolvimento de hubs e soluções integradas. Trabalhei tanto no backend, utilizando Java com Spring Boot e Node.js, quanto no frontend, com Vue.js e Angular. Colaborei no desenvolvimento de APIs, interfaces web responsivas, integração com dispositivos IoT, além de contribuir com práticas ágeis (Scrum/Kanban), versionamento com Git e processos de deploy em ambiente cloud.
+</br>
