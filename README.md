@@ -1,8 +1,5 @@
 ## Bem Vindo ao meu GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-<img align="right" width="40%" src="https://github.com/rafaelq80/rafaelq80/blob/main/dev.png?raw=true">
-
-
 <div align="center mt-10">
  
 ```
