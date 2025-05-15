@@ -3,7 +3,7 @@
 <img align="right" width="40%" src="https://github.com/rafaelq80/rafaelq80/blob/main/dev.png?raw=true">
 
 
-<div align="center">
+<div align="center mt-10">
  
 ```
  __          __  _                          _ 
