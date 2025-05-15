@@ -45,3 +45,17 @@ Atuei como desenvolvedor full stack em um instituto de pesquisa e desenvolviment
 <code><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" width="150px" height="75px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" width="150px" height="75px"></code>
 </br>
+
+## Redes Sociais 🔎📧💬📫🔍
+<a href="https://github.com/WesleyRock/" target="_blank">
+<img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/wesley-roque-a51980232/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<div>
+
+![Snake animation](https://github.com/juancondorijara/juancondorijara/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
