@@ -12,7 +12,7 @@
 ```
 </div>
 
-Olá sou Wesley Roque, um dev apaixonado por **Tecnologia** e **Progrmação**. 👨‍💻
+Olá sou Wesley Roque, um dev apaixonado por **Tecnologia** e **Programação**. 👨‍💻
 
 </br>
 
