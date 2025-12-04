@@ -42,7 +42,6 @@ Atuei como desenvolvedor full stack em um instituto de pesquisa e desenvolviment
 <code><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="150px" height="75px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" width="150px" height="75px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" width="150px" height="75px"></code>
-<code><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="150px" height="75px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="150px" height="75px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" width="150px" height="75px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" width="150px" height="75px"></code>
