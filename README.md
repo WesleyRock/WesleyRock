@@ -20,7 +20,7 @@ Olá sou Wesley Roque, um dev apaixonado por **Tecnologia** e **Programação**.
 Atuei como desenvolvedor full stack em um instituto de pesquisa e desenvolvimento (P&D), participando de diversos projetos voltados para eficiência energética, gestão de armazéns corporativos, controle de consumo de água e desenvolvimento de hubs e soluções integradas. Trabalhei tanto no backend, utilizando Java com Spring Boot e Node.js, quanto no frontend, com Vue.js e Angular. Colaborei no desenvolvimento de APIs, interfaces web responsivas, integração com dispositivos IoT, além de contribuir com práticas ágeis (Scrum/Kanban), versionamento com Git e processos de deploy em ambiente cloud.
 </br>
 
-## Tecnologías y Herramientas 🧰⚙💼
+## Tecnologias e Ferramentas 🧰⚙💼
 <code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="150px" height="75px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" width="150px" height="75px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" width="150px" height="75px"></code>
@@ -45,6 +45,7 @@ Atuei como desenvolvedor full stack em um instituto de pesquisa e desenvolviment
 <code><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" width="150px" height="75px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" width="150px" height="75px"></code>
 <code><img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" width="150px" height="75px"></code>
+<code><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" width="150px" height="75px"></code>
 </br>
 
 ## Redes Sociais 🔎📧💬📫🔍
